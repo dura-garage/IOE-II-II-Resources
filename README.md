@@ -1,5 +1,7 @@
 # 4th-semester
-This is a repo that is aimed to provide full 4th semester contents.
+This is a repo that is aimed to provide full 4th semester contents.  
+original: [amewzzz/4th-semester](https://github.com/amewzzz/4th-semester.git)  
+modified to work with `git-lfs`
 
 ## For Best Use
 
